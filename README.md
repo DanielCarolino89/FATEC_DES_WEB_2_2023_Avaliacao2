@@ -1,6 +1,7 @@
 ## Segunda Avaliação DESENVOLVIMENTO WEB II
 <hr>
-## Como foi feito a avaliação.
+
+<b>## Como foi feito a avaliação.</b>
 
 No codigo fiz um POO com CRUD em PDO.
 Feito a conexao com banco de dados vestibular;
@@ -9,6 +10,7 @@ Feito a página de adiministração,<br> com update (para alterar os dados cadas
 
 
 <hr>
+<br>
 ## Como Realizar esta avaliação ?
 
 1. Crie um repositório no seu github com o nome "<b>FATEC_DES_WEB_2_2023_Avaliacao2</b>"
