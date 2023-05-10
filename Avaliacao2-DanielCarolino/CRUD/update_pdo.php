@@ -24,7 +24,7 @@ try {
     $conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 
     $sql = "UPDATE cadastro SET nome = '$nome', documento = '$documento',
-    documento = '$telefone',documento = '$escola' 
+    telefone = '$telefone',escola = '$escola' 
     WHERE id = '$id'";
 
     // Prepare statement
